@@ -13,7 +13,7 @@ Password:  JucQRScWLPgYPhKb
 
 2)      {
           "email": "kitty11@gmail.com",
-              "contraseña": "1234"
+          "contraseña": "1234"
         }
 
 
